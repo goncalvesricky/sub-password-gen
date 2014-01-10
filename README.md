@@ -5,7 +5,7 @@ sub-password-gen
 
 2. input sub-passwords -- output original password
 
-method: data-fitting to a line... sub-passwords will fit to polynomial of degree #-1, and master password will be y-intercept of password
+method: data-fitting to a line... sub-passwords will fit to polynomial of degree #-1, and master password will be y-intercept of polynomial
 
 
 
