@@ -10,4 +10,4 @@ method: data-fitting to a line... sub-passwords will fit to polynomial of degree
 
 
 
-based on [Shamir's Algorithm] (http://en.wikipedia.org/wiki/Shamir's_Secret_Sharing)
+based on Shamir's Algorithm: http://en.wikipedia.org/wiki/Shamir's_Secret_Sharing
